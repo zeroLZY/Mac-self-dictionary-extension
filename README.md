@@ -13,3 +13,11 @@ After having a try, I am thinking, do I need more features? Yeah, something like
 I want to edit the words table file. For example, I want to add some sentence containing words for better understanding. Through Pooria Azimi's extension, I have no access to do that.
 
 So, I tried something by using Python. If you are interested in this situation, welcome to read my Python code or write something better. Thank you very much.
+
+After several hours working, I have realised some features I want.
+Also, I met new problems.
+
+I will writing here for better programming in the future.
+1, Every time I run Python code, I got words in different order.
+2, I should be very cautious for editing the everyday_words.txt file to add some sentence or comments.
+  There is no use for pressing Enter key because I removed all the '\n' of the file in the programme for something.
