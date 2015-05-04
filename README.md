@@ -21,3 +21,8 @@ I will writing here for better programming in the future.
 1, Every time I run Python code, I got words in different order.
 2, I should be very cautious for editing the everyday_words.txt file to add some sentence or comments.
   There is no use for pressing Enter key because I removed all the '\n' of the file in the programme for something.
+  
+  Why don't you write a GUI for yourself to recite the new words?
+  Also, you can add more features:
+  1, check the words your recited words
+  2, sum the checks of every words, then show yourself the words in another order
