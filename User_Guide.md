@@ -1,5 +1,5 @@
 ### install extension for Mac dictionary. 
-  * For more information on website . It is a perfect extension for Mac dictionary. What I do is based on its work.
+  * For more information on [website](http://pooriaazimi.github.io/BetterDictionary/) . It is a perfect extension for Mac dictionary. What I do is based on its work.
 
 ### Setting path
   * remember where you installed the former extension
